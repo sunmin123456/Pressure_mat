@@ -12,3 +12,7 @@ However, even if there is no subject on the mattress, the pressure sensor on the
 [1] Kau L J, Wang M Y, Zhou H. Pressure-sensor-based sleep status and quality evaluation system[J]. IEEE Sensors Journal, 2023, 23(9): 9739-9754.
 
 [2] https://github.com/JonesChau/Sleep-Parameter
+
+Example
+
+![Image](FaceUp.png)
